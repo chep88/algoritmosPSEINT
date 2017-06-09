@@ -20,7 +20,7 @@ Funcion res <- eleccionMaquina
 		De Otro Modo:
 			Escribir "Fuera de rango";
 	Fin Segun;
-	
+	Esperar Tecla;
 	res <-opcion_compu;
 	
 FinFuncion
